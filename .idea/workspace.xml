@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd89ec9-dfa7-4018-921b-545f3c49acc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="1fd89ec9-dfa7-4018-921b-545f3c49acc3" name="Changes" comment="I'm hungry">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DistrictCrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DistrictCrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrimeFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrimeFreq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +62,23 @@
       <updated>1675272544488</updated>
       <workItem from="1675272546136" duration="366000" />
       <workItem from="1675272940209" duration="53000" />
-      <workItem from="1675273053167" duration="3311000" />
+      <workItem from="1675273053167" duration="5341000" />
     </task>
+    <task id="LOCAL-00001" summary="I'm hungry">
+      <created>1675276417142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675276417142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I'm hungry" />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm hungry" />
   </component>
 </project>
