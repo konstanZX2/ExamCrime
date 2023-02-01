@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Dni {
+public class Dni {
 }
